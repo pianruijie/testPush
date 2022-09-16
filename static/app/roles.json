@@ -1,0 +1,1 @@
+[{"name":"测试推送github-管理员","id":"DyVZYOwav6","isEveryOne":false,"isAppAdmin":true,"isAppUser":false,"global":false,"description":"系统自动创建，应用级别角色，只在应用「测试推送git」中可见。"},{"name":"测试推送github-用户","id":"7dAE5Ko59n","isEveryOne":false,"isAppAdmin":false,"isAppUser":true,"global":false,"description":"系统自动创建，应用级别角色，只在应用「测试推送git」中可见。"}]
