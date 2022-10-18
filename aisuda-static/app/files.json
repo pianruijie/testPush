@@ -1,0 +1,23 @@
+[
+  {
+    "raw": "/images/2022-03/3da3ceb3203ab011d002cb84178b516b.jpg",
+    "key": "/images/2022-03/3da3ceb3203ab011d002cb84178b516b.jpg",
+    "headers": {
+      "content-type": "image/png"
+    }
+  },
+  {
+    "raw": "/static/amis-saas/06c45aff8cfb/custom_components_1bc4a2bec3bd.js",
+    "key": "/static/amis-saas/06c45aff8cfb/custom_components_1bc4a2bec3bd.js",
+    "headers": {
+      "content-type": "application/octet-stream"
+    }
+  },
+  {
+    "raw": "/static/amis-saas/06c45aff8cfb/custom_plugins_1bc4a2bec3bd.js",
+    "key": "/static/amis-saas/06c45aff8cfb/custom_plugins_1bc4a2bec3bd.js",
+    "headers": {
+      "content-type": "application/octet-stream"
+    }
+  }
+]
