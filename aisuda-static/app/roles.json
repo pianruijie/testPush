@@ -1,1 +1,0 @@
-[{"name":"管理员","id":"lKVZOnEBdk","isEveryOne":false,"isAppAdmin":true,"isAppUser":false,"global":false,"description":"系统自动创建，应用级别角色，只在应用「测试推送icode」中可见。"},{"name":"用户","id":"dl6EgeojP1","isEveryOne":false,"isAppAdmin":false,"isAppUser":true,"global":false,"description":"系统自动创建，应用级别角色，只在应用「测试推送icode」中可见。"}]
