@@ -1,1 +1,1 @@
-[{"name":"管理员","id":"ygMwaloQAO","isEveryOne":false,"isAppAdmin":true,"isAppUser":false,"global":false,"description":""},{"name":"用户","id":"Nq4omrw1g7","isEveryOne":false,"isAppAdmin":false,"isAppUser":true,"global":false,"description":""}]
+[{"name":"管理员","id":"VbEL2nqodr","isEveryOne":false,"isAppAdmin":true,"isAppUser":false,"global":false,"description":"系统自动创建，应用级别角色，只在应用「test111」中可见。"},{"name":"用户","id":"VDZB89kwNW","isEveryOne":false,"isAppAdmin":false,"isAppUser":true,"global":false,"description":"系统自动创建，应用级别角色，只在应用「test111」中可见。"}]
